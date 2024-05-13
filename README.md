@@ -1,6 +1,6 @@
-Project Title: Sphere Animation Showcase
+**Project Title: Sphere Animation Showcase**
 
-Description:
+**Description**:
 This project demonstrates a captivating animated sphere using cutting-edge web technologies—THREE.js and GSAP. As a visually appealing addition to any portfolio, it showcases the fusion of 3D graphics and animation, illustrating both technical prowess and creative design sensibility.
 
 Technologies Used:
@@ -13,7 +13,7 @@ Dynamic Sphere Animation: The main attraction of the project, a spherical object
 Mouse Interaction: The sphere changes color dynamically based on mouse movements, providing an intuitive and visually stimulating interaction for users.
 Project Structure:
 
-Usage:
+**Usage**:
 
 Clone the repository to your local machine.
 Open in your prefered code editor, after installing the required dependencies, you can start the project with "npm run dev"
