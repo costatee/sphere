@@ -2,11 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: black;
+
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 body, html {
     overflow-x: hidden;
-    font-family: serif;
+    font-family: sans-serif;
 }
 
 .webgl {
