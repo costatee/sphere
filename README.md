@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
 **Project Title: Sphere Animation Showcase**
 
 **Description**:
@@ -33,4 +30,3 @@ Attila Szepe
 
 License:
 This project is licensed under the MIT License, allowing for free use and modification for personal and commercial purposes.
->>>>>>> Stashed changes
