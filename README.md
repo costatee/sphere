@@ -1,7 +1,7 @@
 **Project Title: Sphere Animation Showcase**
 
 **Description**:
-This project demonstrates a captivating animated sphere using cutting-edge web technologies—THREE.js and GSAP. As a visually appealing addition to any portfolio, it showcases the fusion of 3D graphics and animation, illustrating both technical prowess and creative design sensibility.
+This project demonstrates a captivating animated sphere using THREE.js and GSAP. As a visually appealing addition to any portfolio, it showcases the fusion of 3D graphics and animation, illustrating both technical prowess and creative design sensibility.
 
 Technologies Used:
 
